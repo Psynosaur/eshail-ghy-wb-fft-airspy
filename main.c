@@ -14,7 +14,7 @@
 
 #define AIRSPY_SAMPLE   10000000
 
-#define AIRSPY_SERIAL	0x644064DC2354AACD // WB
+//#define AIRSPY_SERIAL	0x644064DC2354AACD // WB
 
 /** LWS Vars **/
 int max_poll_elements;
