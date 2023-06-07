@@ -5,7 +5,7 @@ A daemon to serve an FFT over websocket
 ## Download
 
 ```
-git clone --recursive https://github.com/BritishAmateurTelevisionClub/eshail-ghy-wb-fft-airspy.git
+git clone --recursive https://github.com/Psynosaur/eshail-ghy-wb-fft-airspy.git
 ```
 
 ## Install libairspy dependency
